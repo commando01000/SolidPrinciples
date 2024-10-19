@@ -1,11 +1,9 @@
-﻿using SolidPrinciples.SingleResponsibility.FollowPrinciple;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace SolidPrinciples.SingleResponsibility.FollowPrinciple
+namespace SolidPrinciples.OpenClosed.FollowPrinciple
 {
     public class InVoice
     {
